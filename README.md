@@ -4,3 +4,4 @@
 2.change the connection string in web.config file to point to your DB<br/><br/>
 3.mark the InventoryAPI project as startup Project and run the project.<br/>
 4.now you will get the response from API. to get all the inventories in response use "http://localhost:yourPortNumber/api/Inventories" <br/>
+5.Also Included "InventoryManagementClient" to consume the API. keep InventoryAPI and  InventoryManagementClient as strartup Projecta. run the project using f5. 
