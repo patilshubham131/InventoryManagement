@@ -1,0 +1,14 @@
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\obj\Debug\Inventory.IBL.csprojAssemblyReference.cache
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\obj\Debug\Inventory.IBL.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\bin\Debug\Inventory.IBL.dll
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\bin\Debug\Inventory.IBL.pdb
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\bin\Debug\Inventory.Model.dll
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\bin\Debug\Inventory.Model.pdb
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\obj\Debug\Inventory.IBL.csproj.CopyComplete
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\obj\Debug\Inventory.IBL.dll
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\obj\Debug\Inventory.IBL.pdb
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\bin\Debug\Inventory.DAL.dll
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\bin\Debug\EntityFramework.dll
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\bin\Debug\Inventory.DAL.pdb
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\bin\Debug\Inventory.DAL.dll.config
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.IBL\bin\Debug\EntityFramework.xml

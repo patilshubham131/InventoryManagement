@@ -1,0 +1,6 @@
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.Model\bin\Debug\Inventory.Model.dll
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.Model\bin\Debug\Inventory.Model.pdb
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.Model\obj\Debug\Inventory.Model.csprojAssemblyReference.cache
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.Model\obj\Debug\Inventory.Model.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.Model\obj\Debug\Inventory.Model.dll
+C:\Users\shubh\source\repos\InventoryAPI\Inventory.Model\obj\Debug\Inventory.Model.pdb
